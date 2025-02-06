@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Medicated Bathing Soap Production</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to Medicated Bathing Soap Production Course</h1>
+    </header>
+    <section>
+        <h2>Course Outline</h2>
+        <ul>
+            <li>Module 1: Introduction to Medicated Soap</li>
+            <li>Module 2: Understanding Ingredients</li>
+            <li>Module 3: Step-by-Step Production</li>
+            <li>Module 4: Enhancing Soap Quality</li>
+            <li>Module 5: Practical Demonstration</li>
+            <li>Module 6: Marketing and Business Insights</li>
+            <li>Module 7: Final Assessment</li>
+        </ul>
+    </section>
+    <footer>
+        <p>&copy; 2025 Medicated Soap Academy</p>
+    </footer>
+</body>
+</html>
